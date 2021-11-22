@@ -1,0 +1,11 @@
+.image {
+  max-width: 25%;
+  max-height: 25%;
+  padding: 10px;
+  }
+body {
+    background: #ffcbcb;
+}
+.container h1 {
+    text-align: center;
+}
