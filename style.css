@@ -4,8 +4,21 @@
   padding: 10px;
   }
 body {
-    background: #ffcbcb;
+    background: #d9dad7;
 }
 .container h1 {
     text-align: center;
+    margin-top: 15px;
+}
+
+.link a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #132743;
+    transition: ease-in-out 200ms;
+
+}
+
+.link a:hover {
+    color: #c3195d;
 }
